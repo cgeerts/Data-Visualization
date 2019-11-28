@@ -22,7 +22,5 @@ Global Population Line Chart
 Sleep vs. Work Pie Chart
 
 #### Author: Carter Geerts, 2019
-
 #### Programs Used: Python3, SublimeText3
-
 #### Licensed by the International Olympic Committee
